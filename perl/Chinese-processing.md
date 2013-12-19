@@ -22,11 +22,11 @@ perl中文处理
 API
 ---
 > use Encode;
-$octets = encode(ENCODING, $string [, CHECK]);
-$string = decode(ENCODING, $octets [, CHECK]);
-is_utf8(STRING [, CHECK]);
-_utf8_on(STRING);
-_utf8_off(STRING);
+> $octets = encode(ENCODING, $string [, CHECK]);
+> $string = decode(ENCODING, $octets [, CHECK]);
+> is_utf8(STRING [, CHECK]);
+> _utf8_on(STRING);
+> _utf8_off(STRING);
 
 一般中文处理
 ------------
