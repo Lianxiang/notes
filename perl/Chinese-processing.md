@@ -21,7 +21,7 @@ perl中文处理
 
 API
 ---
-use Encode;
+> use Encode;
 $octets = encode(ENCODING, $string [, CHECK]);
 $string = decode(ENCODING, $octets [, CHECK]);
 is_utf8(STRING [, CHECK]);
