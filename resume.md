@@ -10,7 +10,7 @@ Email: zhoulianxiang@gmail.com
 Career Objective
 ----------------
 
-Seeking a progamming work, write code and debug code. In addition, work with other programmers, no much overtime and flexible hours. As a embedded software designer with 9 years experience, I prefer the pure software programming, far away from hardware. I like work as a single-minded and deep-minded programmer.
+Seeking a progamming work, write code and debug code. In addition, program with other programmers, no much overtime and flexible hours. As a embedded software designer with 9 years experience, I prefer the pure software programming, far away from hardware. I like work as a single-minded and deep-minded programmer.  
 
 Professional Experience
 -----------------------
@@ -19,19 +19,21 @@ Professional Experience
 Spreadtrum communications Inc., Shanghai  
 Software Engineer  
 Job responsibilities:  
-...  
+In FFOS-on-spreadtrum project, bring up system, port drivers, debug stablity bugs of kernel related.  
+In the feature phone platform, code and debug the GUI controlers.
+In the 5 years, I write many script, for all sorts of usage, for test, for debug, for daily build, for code scanning, and so on. My favorite language is Perl, and then Linux Shell. In the early days, I used perl and batch when we work on windows.   
 
 * 2006.07 - 2008.12  
 Huawei Technologies Co., Ltd, Shanghai  
 Software Engineer  
 Job responsibilities:  
-...  
+I ported drivers for phone devices.   
 
 * 2005.02 - 2006.02  
 Jiuzhou Electron Co., Ltd, Shenzhen  
 Software Engineer  
 Job responsibilities:  
-...  
+Write OSD program for top set, and porting some little games, such as snake and tetris.  
 
 * 2002.07 - 2004.12  
 Kangda Zhuyou Software Co, Ltd, Beijing  
