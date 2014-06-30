@@ -48,7 +48,10 @@ Develop Hospital Information System(HIS) and restaurant management system. Use P
 Skills and Proficiencies
 ------------------------
 
-* 9 years embedded experience  
+* 9 years embedded experience
+* Port and debug embedded device's drivers
+* Platform software develop
+* Script write with perl and linux shell
 
 Technical Skills and Knowledge
 ------------------------------
