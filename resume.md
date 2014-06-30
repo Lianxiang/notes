@@ -10,7 +10,7 @@ Email: zlx_0@hotmail.com
 Career Objective
 ----------------
 
-Seeking a progamming work, write code and debug code. In addition, program with other programmers, no much overtime, and flexible hours. As a embedded software designer with 9 years experience, I prefer the pure software programming, far away from hardware. I like work as a single-minded and deep-minded programmer.  
+Seeking a progamming work, write code and debug code. In addition, program with other programmers, no much overtime, and flexible hours. As an embedded software designer with 9 years experience, I prefer the pure software programming. I like work as a single-minded and deep-minded programmer.  
 
 Professional Experience
 -----------------------
