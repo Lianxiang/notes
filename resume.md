@@ -48,7 +48,6 @@ Develop Hospital Information System(HIS) and restaurant management system. Use P
 Skills and Proficiencies
 ------------------------
 
-* 9 years embedded experience
 * Port and debug embedded device's drivers
 * Platform software develop
 * Script write with perl and linux shell
@@ -59,6 +58,7 @@ Technical Skills and Knowledge
 * C programming languages - I use it 9 years, and expert of it.
 * Perl - I take it as a toy, I like it.
 * Linux Shell - It makes things simple and easy.
+* Linux - self-study and play with it for 7 years, work on it for 2 years.
 
 Educational Qualifications
 --------------------------
