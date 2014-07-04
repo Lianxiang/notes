@@ -33,6 +33,11 @@ Chinese Input: fcitx
 * http://www.mplayerhq.hu
 * http://smplayer.org/
 
+screenshot
+----------
+
+* https://wiki.archlinux.org/index.php/Screenshot
+
 BT下载：rTorrent
 ----------------
 
