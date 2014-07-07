@@ -33,7 +33,21 @@ Chinese Input: fcitx
 * http://www.mplayerhq.hu
 * http://smplayer.org/
 
-screenshot
+
+office: libreoffice & wps
+-------------------------
+
+pdf:
+----
+
+看图：mirage
+------------
+
+图片编辑：gimp
+--------------
+
+
+截屏：scrot & snapshot & gnome-panel-screenshot & gimp
 ----------
 
 * https://wiki.archlinux.org/index.php/Screenshot
@@ -44,7 +58,7 @@ BT下载：rTorrent
 * https://wiki.archlinux.org/index.php/RTorrent_
 
 
-conky
+系统监控：conky
 -----
 
 * https://wiki.archlinux.org/index.php/Conky
