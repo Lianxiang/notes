@@ -37,8 +37,8 @@ Chinese Input: fcitx
 office: libreoffice & wps
 -------------------------
 
-pdf:
-----
+pdf: Evince
+-----------
 
 看图：mirage
 ------------
