@@ -11,6 +11,7 @@ Window Manager: FVWM
 --------------------
 
 * http://www.fvwm.org/
+* http://zensites.net/fvwm/guide/index.html
 
 File Manager: thunar
 ------
