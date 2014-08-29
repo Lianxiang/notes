@@ -7,3 +7,4 @@ Footprints
 * https://www.nitrous.io/
 * http://markdown.tw/
 * http://wowubuntu.com/markdown/
+* http://rogerdudler.github.io/git-guide/index.zh.html
