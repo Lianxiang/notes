@@ -1,1 +1,1 @@
-- git clone <url>
+- git clone \<url\>
