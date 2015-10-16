@@ -1,0 +1,5 @@
+- download file libevent-2.0.22-stable.tar.gz from libevent - Official Site
+- unpack
+- ./configure
+- make
+- sudo make install
