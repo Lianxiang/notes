@@ -1,0 +1,5 @@
+- get file sqlite-autoconf-3090100.tar.gz from http://www.sqlite.org/download.html
+- unpack
+- ./configure
+- make
+- sudo make install
